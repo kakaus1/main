@@ -1,7 +1,7 @@
 {
-  "name": "roblox-chat-api",
-  "version": "1.0.0",
-  "description": "External chat API for Roblox games",
+  "name": "roblox-chat-api-v2",
+  "version": "2.0.0",
+  "description": "Advanced external chat API for Roblox with private messages, server browser, and more",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -14,6 +14,6 @@
     "express": "^4.18.2",
     "cors": "^2.8.5"
   },
-  "keywords": ["roblox", "chat", "api"],
+  "keywords": ["roblox", "chat", "api", "server-browser"],
   "license": "MIT"
 }
